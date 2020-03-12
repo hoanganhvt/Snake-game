@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1583996534 source:c:\users\hoang anh\documents\snake\main.cpp
+	<iostream>
+	"console.h"
+	<vector>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+
+1309610801 source:c:\users\hoang anh\documents\snake\console.cpp
+	"console.h"
+
+1309610507 c:\users\hoang anh\documents\snake\console.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+	<sstream>
+	<conio.h>
+	<windows.h>
+	<termios.h>
+	<unistd.h>
+	<fcntl.h>
+	"keys.h"
+	"ConsoleColor.h"
+
+1309610783 c:\users\hoang anh\documents\snake\keys.h
+
+1281188425 c:\users\hoang anh\documents\snake\consolecolor.h
+
